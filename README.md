@@ -1,6 +1,6 @@
 # SF Crime Analysis
 
-This project involved writing python code to download the current San Francisco crime statistics, do the pre-processing, then upload the dataframe to Postgresql for visualization with Metabase.   
+This project involved writing python code to download the current San Francisco crime statistics, do the pre-processing, then upload the dataframe to Postgresql for visualization with Metabase. I plan on doing this for other cities as time permits. 
 
 ## Requirements
 
