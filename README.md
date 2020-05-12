@@ -8,7 +8,9 @@ A requirements.txt file is included. If you would like to run the program on you
 
 ## Usage
 
-Feel free to use the code. You can also follow the crime statistics with my visualizations at the following link: http://3.80.241.0:3000/public/dashboard/03fe31cb-66f1-4e5f-aeb0-1e72fd42014b
+Feel free to use the code. You can also follow the crime statistics with my visualizations at the following link: 
+[SF Crime Dashboard](http://3.80.241.0:3000/public/dashboard/03fe31cb-66f1-4e5f-aeb0-1e72fd42014b)
+
 The link is updated regularly with a cronjob.
 
 ## Contributing
