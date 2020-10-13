@@ -1,2 +1,1 @@
-example connection string to connect to postgres server
-conn_postgres = 'postgresql://username:password@serveraddress:portnumber/database'
+conn_postgres = 'postgresql://postgres:postgres@postgres.cycau0z5fcoi.us-east-1.rds.amazonaws.com:5432/crime'
