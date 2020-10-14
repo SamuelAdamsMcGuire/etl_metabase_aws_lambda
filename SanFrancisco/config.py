@@ -1,1 +1,2 @@
-conn_postgres = 'postgresql://postgres:postgres@postgres.cycau0z5fcoi.us-east-1.rds.amazonaws.com:5432/crime'
+example connection string 'postgresql://id:password@host:port/database
+conn_postgres = 'postgresql://id:password@postgres.xxyyz.rds.amazonaws.com:5432/dbname'
