@@ -149,7 +149,7 @@ One the backend servers are set up the data flow need to be set up. Data will co
 
 #### Lambda Function:
 1. Wrap the python data extraction and cleaning code into a `lambda_handler`, see the crime.py file here for the code. Keep in mind that the DB connection string must be from the postgresql server that was made, the current connection string is only a placeholder. 
-[lambda](images/lambda_func.png)
+![lambda](images/lambda_func.png)
 2. Use built-in aws data wrangling layer for access to pandas.
 3. Make custom layer for sqlalchemy and psycopg2:
     - create a folder named `python`
@@ -159,7 +159,7 @@ One the backend servers are set up the data flow need to be set up. Data will co
     - ` zip -r sql_lambda.zip python/`
 4. Upload the zip file to aws lamba layers
 5. Add custom layer to funtion
-[layer](images/layers.png)
+![layer](images/layers.png)
 6. Run test of lambda function 
 
 
